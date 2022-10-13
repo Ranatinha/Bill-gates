@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+ <title> Business Partner </title>
+</head>
+
+<body>
+<h1> Principal Profissional na area de TI </h1>
+<hr>
+
+
+<IMG SRC="IMG2.jpg" ALT="imagem do Bill GATES" WIDTH="250PX">
+<BR>
+<P><font size="face="comic sans MS> Bill Gates é um empresario americano mundialmente conhecido por fundar a microsoft, a mais conhecida empresa de software do mundo. </p>
+<IMG SRC="IMG3.jpg ALT="imagem do bill Gates" WIDTH="250PX">
+
+
+
+</body>
+</html>
+
